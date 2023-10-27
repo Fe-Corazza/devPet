@@ -1,0 +1,41 @@
+.tabel{
+    width: fit-content;
+    text-transform: uppercase;
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #e0ceb2;
+    padding: 2em;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.tabel h2{
+    color: black;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.tabel p{
+    text-align: center;
+    margin-top: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+.tabel input{
+    border-radius: 6px;
+    padding: 6px 16px;
+    margin-bottom: 20px;
+    width: 300px;
+    background: transparent;
+    border: 1px solid black;
+}
+.tabel textarea{
+    border-radius: 6px;
+    padding: 6px 16px;
+    margin-bottom: 20px;
+    width: 300px;
+    background: transparent;
+    border: 1px solid black;
+}
+.bit{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,36 @@
+footer{
+    display: block;
+    background: #9871dd;
+    width: 100%;
+    height: 200px;
+    top: 0;
+    bottom: 0;
+}
+footer div{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    height: 100%;
+}
+.fot{
+    list-style: none;
+    display: flex;
+    font-size: 13px;
+    top: -2px;
+    width: fit-content;
+    align-items: center;
+}
+.qmso{
+    list-style: none;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: larger;
+   
+
+}
+.qmso h2{
+    width: fit-content;
+    margin: 0%;
+    padding: 15px 0;
+}

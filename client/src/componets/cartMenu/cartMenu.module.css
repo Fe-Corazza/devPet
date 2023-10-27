@@ -1,0 +1,34 @@
+.menu {
+  background: rgb(48, 130, 139);
+  width: 350px;
+  position: absolute;
+  padding: 20px;
+  z-index: 10;
+  top: 1;
+  right: 0;
+  margin-right: 90px;
+}
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 40px;
+}
+.options p {
+  text-align: center;
+  color: #fff;
+}
+.preco {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  font-size: 16px;
+}
+.preco h2 {
+  font-size: 16px;
+}
+.preco h2:nth-of-type(2) {
+  color: #ffffff;
+  padding-bottom: 20px;
+}

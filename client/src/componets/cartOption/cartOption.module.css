@@ -1,0 +1,30 @@
+.option{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: right;
+}
+.option img{
+    object-fit: cover;
+    mix-blend-mode: multiply;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+
+}
+.info h3{
+    font-size: 16px;
+}
+.info h3:nth-of-type(2){
+    color: #ffffff;
+}
+.info p{
+ font-size: 12px;
+ font-style: italic;
+ cursor: pointer;
+    color: red;
+}

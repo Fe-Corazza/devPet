@@ -1,0 +1,74 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Tilt+Prism&display=swap"); */
+
+* {
+  font-family: "Inter", sans-serif;
+}
+
+body{
+  background: #fff;
+}
+.imgfund{
+  width: 100%;
+  height: 100%;
+}
+.container {
+  padding: 0 ;
+  max-width: 1000px;
+  margin: 40px;
+  display: flex;
+  gap: 28px;
+}
+.cont{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 170px;
+ 
+ 
+}
+.conte{
+  padding: 0 60px;
+  max-width: 1150px;
+  margin: 30px auto;
+display: flex;
+gap: 40px;
+}
+.containeres{
+  /* padding: 0 60px; */
+  max-width:100%;
+  /* margin: 30px auto; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+  margin-top: 60px;
+display: flex;
+gap: 50px;
+}
+
+.conta{
+  max-width:100%;
+  margin-bottom: 80px;
+}
+.subt{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+}
+.conti {
+  padding: 0 60px;
+  max-width: 1150px;
+  margin: 30px auto;
+  display: flex;
+  gap: 40px;
+  justify-content: space-around;
+}
+.contave{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 200px;
+ padding-bottom: 100px;
+ 
+}

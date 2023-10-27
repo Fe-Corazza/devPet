@@ -1,0 +1,21 @@
+.cartb img{ 
+    cursor: pointer;
+ 
+}
+.cartb{
+    position: relative;
+}
+.number{
+    position: relative;
+    bottom: 15px;
+    border-radius: 100%;
+    background-color:#F24E1E;
+    width: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right: 8px;
+}
+.cartButton{
+margin: 10px;
+}
